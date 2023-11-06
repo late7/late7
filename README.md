@@ -2,5 +2,5 @@
 - 👀 I’m interested in Tooling challenges in DevOps and engineering in general.
 - 🌱 I’m currently learning to train GitHub to others.
 - 💞 I’m looking to collaborate on DevOps consulting, Eficode ROOT especially.
-- 📫 How to reach me email lasse.mikkonen@eficode.com
+- 📫 How to reach me email lasse.mikkonen@byte.fi
 
